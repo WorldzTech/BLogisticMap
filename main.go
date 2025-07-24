@@ -6,15 +6,6 @@ import (
 )
 
 func main() {
-//	generator := BLogisticMap.NewGenerator(3.5, 0.56, 0.2, 0.8, 10)
-//	generator.WarmUp(100)
-//
-//	i := 100
-//	for i > 0 {
-//		i--
-//		fmt.Println(generator.Next())
-//	}
-
 	toEncrypt := []byte("This is a new way to create logistic map.")
 	bm := BLogisticMap.NewBFlow(len(toEncrypt), 3.5, 0.56, 0.2, 0.8)
 
