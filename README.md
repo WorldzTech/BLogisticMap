@@ -52,7 +52,7 @@ These modifications result in a **uniqueness index > 0.9**, compared to ~0.04 fo
 package main
 
 import (
-	"https://github.com/WorldzTech/BLogisticMap"
+	"github.com/WorldzTech/BLogisticMap/BLogisticMap"
 	"fmt"
 )
 
@@ -80,7 +80,7 @@ func main() {
 ## 📦 Installation
 
 ```bash
-go get https://github.com/WorldzTech/BLogisticMap
+go get -u github.com/WorldzTech/BLogisticMap
 ```
 
 ---
