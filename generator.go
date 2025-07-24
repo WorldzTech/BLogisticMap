@@ -1,5 +1,4 @@
 // Modified Logistic Map
-
 package BLogisticMap
 
 type BFlow struct {
