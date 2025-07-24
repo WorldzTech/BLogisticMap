@@ -1,5 +1,5 @@
 // Modified Logistic Map
-package BLogisticMap
+package core
 
 type BFlow struct {
 	Flow []float64

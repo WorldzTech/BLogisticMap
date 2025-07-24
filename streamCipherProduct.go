@@ -1,6 +1,6 @@
 // Cipher product
 
-package BLogisticMap
+package core
 
 type BStreamerProduct struct {
 	Bytes []byte

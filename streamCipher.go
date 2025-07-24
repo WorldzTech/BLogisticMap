@@ -1,6 +1,6 @@
 // Stream Cipher
 
-package BLogisticMap
+package core
 
 type BStreamer struct {
 	Message []byte
