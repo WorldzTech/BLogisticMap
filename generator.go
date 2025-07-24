@@ -1,5 +1,6 @@
 // Modified Logistic Map
-package core
+
+package blogistic
 
 type BFlow struct {
 	Flow []float64

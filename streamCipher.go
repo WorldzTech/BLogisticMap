@@ -1,6 +1,6 @@
 // Stream Cipher
 
-package core
+package blogistic
 
 type BStreamer struct {
 	Message []byte

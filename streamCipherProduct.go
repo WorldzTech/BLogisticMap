@@ -1,6 +1,6 @@
 // Cipher product
 
-package core
+package blogistic
 
 type BStreamerProduct struct {
 	Bytes []byte
